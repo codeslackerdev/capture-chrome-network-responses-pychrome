@@ -15,7 +15,7 @@ Using a normal browser with pyautogui may be more effective.
 
 To capture and parse the network data there are two easy solutions.
 
-1. [Export the network requests as .har files and export data to json.](URL)
+1. [Export the network requests as .har files and export data to json.](https://github.com/codeslackerdev/parse-har-files-python)
 2. Directly parse the network data via python.
 
 This script create a listener for the network responses in a chrome browser
